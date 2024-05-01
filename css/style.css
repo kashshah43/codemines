@@ -1,0 +1,6 @@
+@media (min-width: 1280px) and (max-width: 1535px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 1280px) and (max-width: 1535px) and (min-resolution: 192dpi) {
+    .container .hero {
+        background-image:linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("../Images/heroImage.webp");
+        min-height: 85vh;
+    }
+}
